@@ -1,10 +1,10 @@
 programa
 {
-	inteiro a, b, troca
-	
 	funcao inicio()
 	{
-		escreva("Digite o valor(numérico) da variável A: ") leia(a)
+	
+	inteiro a, b, troca
+	escreva("Digite o valor(numérico) da variável A: ") leia(a)
 		escreva("Digite o valor(numérico) da variável B: ") leia(b)
 		troca=a 	a=b  b=troca
       escreva("O novo valor de A é: ", a)
