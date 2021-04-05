@@ -1,2 +1,2 @@
 # Codar-Portugol-
-treinamento// desenvolvendo no Portugol 
+treinamento// exercicios do PROA no Portugol 
